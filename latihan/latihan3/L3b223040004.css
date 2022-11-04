@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+    font-family: Georgia;
+}
+
+h1 {
+    font-family: Comic Sans MS;
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+    
+}
+
+h4 {
+    text-align:center;
+    text-decoration: italic;
+}
+
+h3 a{
+    color: azure;
+    font-variant: small-caps;
+}
+
+p {
+    text-align: center;
+    color: coral; 
+}
+.Basket {
+    text-align: justify;
+    color:black ;
+}
